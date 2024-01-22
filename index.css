@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+@media only screen and (max-width: 600px) {
+    .middle-text-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .burger-image {
+        width: 650px;
+        height: 350px;
+
+    }
+}
+
+
+.threedots-img {
+    width: 30px;
+    padding: 10px;
+    background-color: #FD5E53
+}
+
+.navbar-container {
+    display: flex;
+    background-color: #FD5E53;
+    height: 50px;
+    width: 700px;
+
+}
+
+.listitems-one {
+    padding: 20px;
+    list-style-type: none;
+}
+
+.bottem-section-container {
+    display: flex;
+}
+
+.middle-text-container {
+    display: flex;
+}
+
+.burger-image {
+    width: 350px;
+    height: 350px;
+
+}
+
+.content-backgroundcolor {
+    background: linear-gradient(to right, #ffd566, #FD5E53);
+    padding: 14px;
+}
+
+.ClickButton {
+    background-color: #ff5e47;
+    padding: 10px;
+    width: 150px;
+    color: #ffffff;
+}
+
+.stag-image {
+    width: 200px;
+    height: 150px;
+    margin: 2px;
+}
+
+.pixcel-image {
+    width: 150px;
+    height: 300px;
+    margin: 5px;
+}
+
+.bottom-section-Header {
+    background-color: #FD5E53;
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+
+.click-container {
+    display: flex;
+}
+
+.arrow-image {
+    width: 25px;
+
+}
+
+.bottom-main-conatiner {
+    display: flex;
+    background: linear-gradient(to right, #ffd566, #ff47ff);
+    padding: 65px;
+    width: 750px;
+    margin-top: 20px;
+}
+
+.LOREMheader {
+    font-family: "Roboto";
+    font-size: 25px;
+    letter-spacing: 0.2em;
+}
+
+.main-heading {
+    letter-spacing: 0.2em;
+}
